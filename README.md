@@ -1,6 +1,6 @@
 
-<p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/61064966/150583530-bcff16e2-e699-4396-8ec2-baa7f5e39cab.gif" />
+<p align="center" width="500">
+   <img align="center" src="https://user-images.githubusercontent.com/61064966/150583530-bcff16e2-e699-4396-8ec2-baa7f5e39cab.gif" />
 <h3 align="center">¡Hey 👋! I'm MigiGOD 🥇</h3>
 </p>
 
