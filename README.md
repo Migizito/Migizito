@@ -1,10 +1,10 @@
 
 <p align="center" width="600">
    <img align="center" height="400" src="https://user-images.githubusercontent.com/61064966/150583530-bcff16e2-e699-4396-8ec2-baa7f5e39cab.gif" />
-<h3 align="center">¡Hey 👋! I'm MigiGOD 🥇</h3>
+<h3 align="center">¡Hey 👋! I'm Miguel (Migi) Tapia 🥇</h3>
 </p>
 
-<p align="center">Student and <strong>Web Developer, </strong> 20 years old.<br /></p>
+<p align="center">Student and <strong>Web Developer, </strong> 22 years old.<br /></p>
 
 <p align="center">
    <a href="https://www.twitch.tv/migitmon" target="blank" style='margin-right:4px'>
